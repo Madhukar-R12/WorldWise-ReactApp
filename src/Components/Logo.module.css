@@ -1,0 +1,8 @@
+.logo {
+  height: 5.2rem;
+}
+:global(.title) {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 20px;
+}

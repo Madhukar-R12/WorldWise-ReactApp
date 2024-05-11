@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "2d4e",
+      "cityName": "Peenya",
+      "country": "India",
+      "date": "2024-05-10T18:53:33.844Z",
+      "emoji": "🇮🇳",
+      "notes": "hello",
+      "position": {
+        "lat": "13.033669355806103",
+        "lng": "77.51968316685314"
+      }
+    },
+    {
+      "id": "420c",
+      "cityName": "Dasarahalli Zone",
+      "country": "India",
+      "date": "2024-05-10T19:02:00.896Z",
+      "emoji": "🇮🇳",
+      "notes": "fawfawfawf",
+      "position": {
+        "lat": "13.003219672653893",
+        "lng": "77.51163482666017"
+      }
+    },
+    {
+      "id": "19b2",
+      "cityName": "Anekal",
+      "country": "India",
+      "date": "2024-05-10T19:06:20.309Z",
+      "emoji": "🇮🇳",
+      "notes": "afwawf",
+      "position": {
+        "lat": "12.882713939546326",
+        "lng": "77.73563834127349"
+      }
+    },
+    {
+      "id": "ba26",
+      "cityName": "East Zone",
+      "country": "India",
+      "date": "2024-05-11T07:01:08.146Z",
+      "emoji": "🇮🇳",
+      "notes": "afwafawf",
+      "position": {
+        "lat": "12.985015272751701",
+        "lng": "77.61291503906251"
+      }
+    }
+  ]
+}
