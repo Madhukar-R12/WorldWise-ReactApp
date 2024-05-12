@@ -6,7 +6,7 @@ import React, {
   useReducer,
   useState,
 } from 'react'
-const BASE_URL = 'http://localhost:3000'
+const BASE_URL = 'https://worldwise-json.onrender.com'
 
 function reducer(state, action) {
   switch (action.type) {

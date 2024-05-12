@@ -6,8 +6,8 @@ import styles from './Login.module.css'
 import { useEffect, useState } from 'react'
 export default function Login() {
   // PRE-FILL FOR DEV PURPOSES
-  const [email, setEmail] = useState('jack@example.com')
-  const [password, setPassword] = useState('qwerty')
+  const [email, setEmail] = useState('madhukar@gmail.com')
+  const [password, setPassword] = useState('madhu@2001')
   const navigate = useNavigate()
   const { Login, isAuthenticated } = useAuth()
   function handleSubmit(e) {

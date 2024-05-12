@@ -36,3 +36,11 @@
 :global(.leaflet-popup-content-wrapper) {
   border-left: 5px solid var(--color-brand--2);
 }
+
+/* Styling for Leaflet controls
+:global(.leaflet-layer),
+:global(.leaflet-control-zoom-in),
+:global(.leaflet-control-zoom-out),
+:global(.leaflet-control-attribution) {
+  filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%);
+} */

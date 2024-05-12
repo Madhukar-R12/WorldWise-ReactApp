@@ -1,0 +1,220 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "2d4e",
+      "cityName": "Peenya",
+      "country": "India",
+      "date": "2024-05-10T18:53:33.844Z",
+      "emoji": "🇮🇳",
+      "notes": "hello",
+      "position": {
+        "lat": "13.033669355806103",
+        "lng": "77.51968316685314"
+      }
+    },
+    {
+      "id": "420c",
+      "cityName": "Dasarahalli Zone",
+      "country": "India",
+      "date": "2024-05-10T19:02:00.896Z",
+      "emoji": "🇮🇳",
+      "notes": "fawfawfawf",
+      "position": {
+        "lat": "13.003219672653893",
+        "lng": "77.51163482666017"
+      }
+    },
+    {
+      "id": "19b2",
+      "cityName": "Anekal",
+      "country": "India",
+      "date": "2024-05-10T19:06:20.309Z",
+      "emoji": "🇮🇳",
+      "notes": "afwawf",
+      "position": {
+        "lat": "12.882713939546326",
+        "lng": "77.73563834127349"
+      }
+    },
+    {
+      "id": "ba26",
+      "cityName": "East Zone",
+      "country": "India",
+      "date": "2024-05-11T07:01:08.146Z",
+      "emoji": "🇮🇳",
+      "notes": "afwafawf",
+      "position": {
+        "lat": "12.985015272751701",
+        "lng": "77.61291503906251"
+      }
+    },
+    {
+      "id": "849e",
+      "cityName": "Tumkur",
+      "country": "India",
+      "date": "2024-05-12T09:10:19.288Z",
+      "emoji": "🇮🇳",
+      "notes": "awfawf",
+      "position": {
+        "lat": "13.37924721245943",
+        "lng": "77.14324951171876"
+      }
+    },
+    {
+      "id": "59c4",
+      "cityName": "Chiknayakanhalli",
+      "country": "India",
+      "date": "2024-05-12T09:10:23.269Z",
+      "emoji": "🇮🇳",
+      "notes": "afawf",
+      "position": {
+        "lat": "13.462236958181272",
+        "lng": "76.49780273437501"
+      }
+    },
+    {
+      "id": "926b",
+      "cityName": "Central Tzoumerka Municipality",
+      "country": "Greece",
+      "date": "2024-05-12T09:10:46.810Z",
+      "emoji": "🇬🇷",
+      "notes": "awfawf",
+      "position": {
+        "lat": "39.3195526622081",
+        "lng": "21.093750000000004"
+      }
+    },
+    {
+      "id": "b787",
+      "cityName": "Rapone",
+      "country": "Italy",
+      "date": "2024-05-12T09:11:07.856Z",
+      "emoji": "🇮🇹",
+      "notes": "awfawf",
+      "position": {
+        "lat": "40.8661206635844",
+        "lng": "15.468750000000002"
+      }
+    },
+    {
+      "id": "5355",
+      "cityName": "فرقصان",
+      "country": "Tunisia",
+      "date": "2024-05-12T09:11:12.637Z",
+      "emoji": "🇹🇳",
+      "notes": "afawf",
+      "position": {
+        "lat": "36.53339747215481",
+        "lng": "8.393554687500002"
+      }
+    },
+    {
+      "id": "0932",
+      "cityName": "El Menia",
+      "country": "Algeria",
+      "date": "2024-05-12T09:11:17.542Z",
+      "emoji": "🇩🇿",
+      "notes": "awfawf",
+      "position": {
+        "lat": "31.58521017428619",
+        "lng": "3.09814453125"
+      }
+    },
+    {
+      "id": "20ae",
+      "cityName": "Colondannes",
+      "country": "France",
+      "date": "2024-05-12T09:11:23.865Z",
+      "emoji": "🇫🇷",
+      "notes": "afawf",
+      "position": {
+        "lat": "46.27410853086761",
+        "lng": "1.6259765625"
+      }
+    },
+    {
+      "id": "23f4",
+      "cityName": "Gokdepe District",
+      "country": "Turkmenistan",
+      "date": "2024-05-12T09:11:30.484Z",
+      "emoji": "🇹🇲",
+      "notes": "awfawf",
+      "position": {
+        "lat": "39.14987090598981",
+        "lng": "58.13964843750001"
+      }
+    },
+    {
+      "id": "a02e",
+      "cityName": "Dowlatyar",
+      "country": "Afghanistan",
+      "date": "2024-05-12T09:11:33.995Z",
+      "emoji": "🇦🇫",
+      "notes": "awfawf",
+      "position": {
+        "lat": "34.77415398864556",
+        "lng": "65.85010471443208"
+      }
+    },
+    {
+      "id": "5ead",
+      "cityName": "Salal",
+      "country": "Chad",
+      "date": "2024-05-12T09:11:39.784Z",
+      "emoji": "🇹🇩",
+      "notes": "",
+      "position": {
+        "lat": "15.29671778865554",
+        "lng": "17.050781250000004"
+      }
+    },
+    {
+      "id": "b208",
+      "cityName": "Tchirozerine Department",
+      "country": "Niger (the)",
+      "date": "2024-05-12T09:11:58.647Z",
+      "emoji": "🇳🇪",
+      "notes": "afwawf",
+      "position": {
+        "lat": "17.064408129256858",
+        "lng": "7.954101562500001"
+      }
+    },
+    {
+      "id": "e2e5",
+      "cityName": "!Kheis Ward 1",
+      "country": "South Africa",
+      "date": "2024-05-12T09:12:09.647Z",
+      "emoji": "🇿🇦",
+      "notes": "awfawf",
+      "position": {
+        "lat": "-29.650218362891923",
+        "lng": "21.4453125"
+      }
+    },
+    {
+      "id": "ed92",
+      "cityName": "Masilonyana Ward 2",
+      "country": "South Africa",
+      "date": "2024-05-12T09:12:19.912Z",
+      "emoji": "🇿🇦",
+      "notes": "awfawf",
+      "position": {
+        "lat": "-28.744234876850253",
+        "lng": "25.993652343750004"
+      }
+    }
+  ]
+}
